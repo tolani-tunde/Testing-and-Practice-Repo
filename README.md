@@ -1,2 +1,2 @@
 # Testing-and-Practice-Repo
-This is the sandbox for skill application
+This is a test repo for practicing using GitHub's features
