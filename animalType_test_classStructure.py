@@ -1,9 +1,5 @@
-#This is a test file for committing to the branch. 
+#This is a test file for committing to the branch. It holds information about the classes and the quiz
 
-
-print("Hello New Person! Welcome!")
-
-print("How has your day been today?")
 
 class User:
     def __init__(self, name, gender):
