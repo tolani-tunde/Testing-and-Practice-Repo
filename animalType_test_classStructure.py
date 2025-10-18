@@ -85,8 +85,7 @@ class Quiz:
             self.animal = "Rabbit"
 
 
-        print("\nAnalyzing your personality...")
-        print(f"\n{self.user.name}, based on your answers, your spirit animal is a 🦊 {self.animal}!")
+    
 
 
 
